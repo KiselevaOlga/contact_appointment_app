@@ -1,12 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 #root {
   padding: 30px;
   font-family: "Open Sans", sans-serif;
+  background-image: linear-gradient(to bottom right, #FF9EC4, #FFD07E);
+  font-size: 17px;
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: 'Righteous', cursive;
+  letter-spacing: 2px;
 }
+
 
 nav > a {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 17px;
   color: #000000;
   margin-right: 30.5px;
   text-decoration-line: none;
